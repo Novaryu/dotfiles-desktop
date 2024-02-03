@@ -1,0 +1,115 @@
+
+2024/02/02 (13:46:06) | ===> btop++ v.1.3.0
+2024/02/02 (13:46:06) | INFO: Logger set to DEBUG
+2024/02/02 (13:46:06) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (13:46:06) | INFO: Running on /dev/pts/1
+2024/02/02 (13:46:06) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/02/02 (13:46:06) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (13:46:06) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (13:46:11) | ===> btop++ v.1.3.0
+2024/02/02 (13:46:11) | INFO: Logger set to DEBUG
+2024/02/02 (13:46:11) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (13:46:11) | INFO: Running on /dev/pts/1
+2024/02/02 (13:46:11) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/02/02 (13:46:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (13:46:11) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (13:47:47) | ===> btop++ v.1.3.0
+2024/02/02 (13:47:47) | INFO: Logger set to DEBUG
+2024/02/02 (13:47:47) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (13:47:47) | INFO: Running on /dev/pts/1
+2024/02/02 (13:47:47) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/02/02 (13:47:47) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (13:47:47) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (13:48:40) | ===> btop++ v.1.3.0
+2024/02/02 (13:48:40) | INFO: Logger set to DEBUG
+2024/02/02 (13:48:40) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (13:48:40) | INFO: Running on /dev/pts/2
+2024/02/02 (13:48:40) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/02/02 (13:48:40) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (13:48:40) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (13:48:59) | ===> btop++ v.1.3.0
+2024/02/02 (13:48:59) | INFO: Logger set to DEBUG
+2024/02/02 (13:48:59) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (13:48:59) | INFO: Running on /dev/pts/2
+2024/02/02 (13:48:59) | INFO: Failed to load libnvidia-ml.so, NVIDIA GPUs will not be detected: libnvidia-ml.so.1: cannot open shared object file: No such file or directory
+2024/02/02 (13:48:59) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (13:48:59) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (14:14:03) | ===> btop++ v.1.3.0
+2024/02/02 (14:14:03) | INFO: Logger set to DEBUG
+2024/02/02 (14:14:03) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (14:14:03) | INFO: Running on /dev/pts/2
+2024/02/02 (14:14:03) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (14:14:03) | DEBUG: Shared::init() : Initialized.
+2024/02/02 (14:26:34) | INFO: Quitting! Runtime: 00:12:31
+
+2024/02/02 (08:59:47) | ===> btop++ v.1.3.0
+2024/02/02 (08:59:47) | INFO: Logger set to DEBUG
+2024/02/02 (08:59:47) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (08:59:47) | INFO: Running on /dev/pts/3
+2024/02/02 (08:59:47) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (08:59:47) | DEBUG: Shared::init() : Initialized.
+2024/02/02 (08:59:47) | WARNING: Failed to get disk/partition stats for mount "/run/media/ryu/Ryu_s\040Drive" with statvfs error code: 2. Ignoring...
+
+2024/02/02 (09:00:56) | ===> btop++ v.1.3.0
+2024/02/02 (09:00:56) | INFO: Logger set to DEBUG
+2024/02/02 (09:00:56) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (09:00:56) | INFO: Running on /dev/pts/3
+2024/02/02 (09:00:57) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (09:00:57) | DEBUG: Shared::init() : Initialized.
+2024/02/02 (09:00:57) | WARNING: Failed to get disk/partition stats for mount "/run/media/ryu/Ryu_s\040Drive" with statvfs error code: 2. Ignoring...
+
+2024/02/02 (09:01:21) | ===> btop++ v.1.3.0
+2024/02/02 (09:01:21) | INFO: Logger set to DEBUG
+2024/02/02 (09:01:21) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (09:01:21) | INFO: Running on /dev/pts/3
+2024/02/02 (09:01:22) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (09:01:22) | DEBUG: Shared::init() : Initialized.
+2024/02/02 (09:01:22) | WARNING: Failed to get disk/partition stats for mount "/run/media/ryu/Ryu_s\040Drive" with statvfs error code: 2. Ignoring...
+
+2024/02/02 (09:02:36) | ===> btop++ v.1.3.0
+2024/02/02 (09:02:36) | INFO: Logger set to DEBUG
+2024/02/02 (09:02:36) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (09:02:36) | INFO: Running on /dev/pts/3
+2024/02/02 (09:02:36) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (09:02:36) | DEBUG: Shared::init() : Initialized.
+2024/02/02 (09:02:36) | WARNING: Failed to get disk/partition stats for mount "/run/media/ryu/Ryu_s\040Drive" with statvfs error code: 2. Ignoring...
+
+2024/02/02 (17:07:42) | ===> btop++ v.1.3.0
+2024/02/02 (17:07:42) | INFO: Logger set to DEBUG
+2024/02/02 (17:07:42) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (17:07:42) | INFO: Running on /dev/pts/1
+2024/02/02 (17:07:42) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (17:07:42) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (17:59:04) | ===> btop++ v.1.3.0
+2024/02/02 (17:59:04) | INFO: Logger set to DEBUG
+2024/02/02 (17:59:04) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (17:59:04) | INFO: Running on /dev/pts/3
+2024/02/02 (17:59:04) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (17:59:04) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (18:40:23) | ===> btop++ v.1.3.0
+2024/02/02 (18:40:23) | INFO: Logger set to DEBUG
+2024/02/02 (18:40:23) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (18:40:23) | INFO: Running on /dev/pts/2
+2024/02/02 (18:40:23) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (18:40:23) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (18:41:56) | ===> btop++ v.1.3.0
+2024/02/02 (18:41:56) | INFO: Logger set to DEBUG
+2024/02/02 (18:41:56) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (18:41:56) | INFO: Running on /dev/pts/2
+2024/02/02 (18:41:56) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (18:41:56) | DEBUG: Shared::init() : Initialized.
+
+2024/02/02 (18:45:09) | ===> btop++ v.1.3.0
+2024/02/02 (18:45:09) | INFO: Logger set to DEBUG
+2024/02/02 (18:45:09) | DEBUG: Using locale en_US.UTF-8
+2024/02/02 (18:45:09) | INFO: Running on /dev/pts/1
+2024/02/02 (18:45:09) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/02 (18:45:09) | DEBUG: Shared::init() : Initialized.

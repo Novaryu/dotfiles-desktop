@@ -1,0 +1,30 @@
+# Ignore all files in the home directory
+/*
+/*/
+
+# Include Scripts
+!/bin/
+
+# Include Configs
+!/.config
+/.config/*
+
+!/.config/alacritty/
+!/.config/btop/
+!/.config/i3/
+!/.config/mpd/
+!/.config/ncmpcpp/
+!/.config/nvim/
+!/.config/picom/
+!/.config/polybar/
+!/.config/rofi/
+!/.config/tmux/
+!/.config/wired/
+
+# Include Dotfiles
+!.bash_profile
+!.bashrc
+!.fehbg
+!.gitignore
+!.hushlogin
+!.xinitrc
