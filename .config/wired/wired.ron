@@ -113,7 +113,7 @@
             // https://github.com/Toqozz/wired-notify/wiki/TextBlock
             params: TextBlock((
                 text: "%s",
-                font: "Fira Code Nerd Font Mono 30",
+                font: "Fira Code Nerd Font Mono 14",
                 ellipsize: Middle,
                 color: Color(hex: "#dcd7ba"),
                 color_hovered: Color(hex: "#fbf1c7"),
@@ -130,7 +130,7 @@
             offset: Vec2(x: 0.0, y: -3.0),
             params: TextBlock((
                 text: "%b",
-                font: "Fira Code Nerd Font Mono 30",
+                font: "Fira Code Nerd Font Mono 14",
 				ellipsize: Middle,
                 color: Color(hex: "#ebdbb2"),
                 color_hovered: Color(hex: "#fbf1c7"),

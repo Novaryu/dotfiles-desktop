@@ -121,3 +121,25 @@
 2024/02/03 (07:10:02) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
 2024/02/03 (07:10:02) | DEBUG: Shared::init() : Initialized.
 2024/02/03 (07:10:03) | WARNING: Failed to get disk/partition stats for mount "/run/media/ryu/Black\040Box" with statvfs error code: 2. Ignoring...
+
+2024/02/03 (07:20:11) | ===> btop++ v.1.3.0
+2024/02/03 (07:20:11) | INFO: Logger set to DEBUG
+2024/02/03 (07:20:11) | DEBUG: Using locale en_US.UTF-8
+2024/02/03 (07:20:11) | INFO: Running on /dev/pts/3
+2024/02/03 (07:20:11) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/03 (07:20:11) | DEBUG: Shared::init() : Initialized.
+2024/02/03 (07:20:11) | WARNING: Failed to get disk/partition stats for mount "/run/media/ryu/Black\040Box" with statvfs error code: 2. Ignoring...
+
+2024/02/03 (09:17:59) | ===> btop++ v.1.3.0
+2024/02/03 (09:17:59) | INFO: Logger set to DEBUG
+2024/02/03 (09:17:59) | DEBUG: Using locale en_US.UTF-8
+2024/02/03 (09:17:59) | INFO: Running on /dev/pts/5
+2024/02/03 (09:18:00) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/03 (09:18:00) | DEBUG: Shared::init() : Initialized.
+
+2024/02/03 (09:55:00) | ===> btop++ v.1.3.0
+2024/02/03 (09:55:00) | INFO: Logger set to DEBUG
+2024/02/03 (09:55:00) | DEBUG: Using locale en_US.UTF-8
+2024/02/03 (09:55:00) | INFO: Running on /dev/pts/3
+2024/02/03 (09:55:00) | INFO: Failed to load librocm_smi64.so, AMD GPUs will not be detected: librocm_smi64.so.1.0: cannot open shared object file: No such file or directory
+2024/02/03 (09:55:00) | DEBUG: Shared::init() : Initialized.

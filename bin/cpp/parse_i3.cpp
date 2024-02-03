@@ -22,23 +22,35 @@ int main(int argc, char* argv[]) {
         std::cerr << "Error parsing JSON: " << e.what() << std::endl;
         return 1;  // Exit with an error code
     }
+	//
+    // Map to store window names sorted by output
+    std::map<std::string, std::vector<std::string>> windowNamesByOutput;
+	std::string focusedWindowName;
 
-    // Build a string containing all window names
-    std::string outputString;
-
+    // Extract window names and sort by output
     for (const auto& workspace : parsedData) {
+        std::string output = workspace["output"];
         std::string windowName = workspace["name"];
-        bool isFocused = workspace["focused"];
+		if (workspace["focused"]) {
+			focusedWindowName = windowName;
+		}
+        windowNamesByOutput[output].push_back(windowName);
+    }
 
-        if (isFocused) {
-            outputString += "|" + windowName + "|";
-        } else {
-            outputString += " " + windowName + " ";
+	std::string outputString = "";
+
+    // Display window names sorted by output
+    for (const auto& entry : windowNamesByOutput) {
+        for (const auto& windowName : entry.second) {
+			if (windowName == focusedWindowName) {
+				outputString += "|" + windowName + "|";
+			}
+			else {
+				outputString += "=" + windowName + "=";
+			}
         }
     }
 
-    // Print the final string
-    std::cout << outputString << std::endl;
-
-    return 0;  // Exit successfully
+	// Print the final string
+	std::cout << outputString << std::endl;
 }

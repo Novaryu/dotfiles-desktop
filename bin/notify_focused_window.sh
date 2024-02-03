@@ -17,20 +17,22 @@ char_between_pipes=$(echo "$window_list" | awk -F '|' '{print $2}')
 
 # Use an additional symbol for 2-character window numbers
 num_characters=$(echo -n "$char_between_pipes" | wc -c)
-selected_character=" ▼ "
+selected_character="=▼="
+spacing_character="="
 
 # Replace the window character with the selected character
 delimiter_position=$(($(expr index "$window_list" "|")+1))
 substring_before_delimiter="${window_list:0:delimiter_position-2}"
 substring_after_delimiter="${window_list:delimiter_position+1}"
 modified_window_list="${substring_before_delimiter}${selected_character}${substring_after_delimiter}"
+spaced_window_list="$(echo "$window_list" | sed "s/[$spacing_character]/|/g")"
 
 # Replace all non-selected characters with another character
-result=$(echo "$modified_window_list" | sed "s/[^$selected_character]/ /g")
+result=$(echo "$modified_window_list" | sed "s/[^$selected_character]/=/g")
 # Remove the trailing character for 2-character window numbers
 if [ $num_characters -eq 2 ]; then
 	result="${result%?}"
 fi
 
 # Display notification
-exec notify-send "$result" "$window_list" --expire-time=600 --replace-id=1
+exec notify-send "$result" "$spaced_window_list" --expire-time=600 --replace-id=1
