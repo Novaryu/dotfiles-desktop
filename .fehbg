@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/ryu/Pictures/Wallpapers/sekiro-gate.jpg' 
+feh --no-fehbg --bg-fill '/home/ryu/Pictures/Wallpapers/sekiro-tree.jpg' --bg-fill '/home/ryu/Pictures/Wallpapers/sekiro-gate.jpg'
