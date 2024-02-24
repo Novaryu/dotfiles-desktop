@@ -1,3 +1,7 @@
+#!/bin/sh
+
+cd "${0%/*}"
+
 line1="$(date '+%a, %b %d, %Y')"
 line2="$(date '+%I:%M %p')"
 

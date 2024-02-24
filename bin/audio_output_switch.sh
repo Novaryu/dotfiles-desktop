@@ -22,3 +22,4 @@ fi
 pactl set-default-sink "$next_sink"
 
 echo "Audio output switched to sink $next_sink"
+exec notify-send --expire-time 2000 "Audio Output:" "$next_sink"

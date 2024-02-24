@@ -14,7 +14,7 @@ FILENAME="screenshot_$(date +%Y%m%d%H%M%S).png"
 sleep 0.01
 
 # Take the screenshot and save it to a temporary file
-scrot -F "$DIR/$FILENAME" -q 100
+scrot -F --silent "$DIR/$FILENAME" -q 100
 
 sleep 0.01
 

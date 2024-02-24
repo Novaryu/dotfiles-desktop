@@ -12,7 +12,7 @@ mkdir -p "$TEMP_DIR"
 TEMP_FILENAME="screenshot_temp_$(date +%Y%m%d%H%M%S).png"
 
 # Take the screenshot and save it to a temporary file
-scrot -s "$TEMP_DIR/$TEMP_FILENAME"
+scrot -s --silent "$TEMP_DIR/$TEMP_FILENAME"
 
 # Copy the screenshot content to the clipboard
 xclip -selection clipboard -t image/png -i "$TEMP_DIR/$TEMP_FILENAME"
